@@ -15,6 +15,7 @@ A fundamental/basic GAN pytorch implementation from scratch on the MNIST dataset
 
 > ### Output - Generated fake images after 100 epochs of training:
 
+![image](https://github.com/SARIT42/noise-2-numbers/assets/77446629/bbea13d8-ac29-4bed-acef-fb933fb9a14f)
 
 
 
