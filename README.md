@@ -1,6 +1,7 @@
 # noise-to-numbers
 A fundamental/basic GAN pytorch implementation from scratch on the MNIST dataset to generate fake images of digits.
 
+## RESULTS
 
 > ### Sample real images from the dataset used for training.
 
